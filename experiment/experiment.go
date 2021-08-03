@@ -6,6 +6,10 @@ import (
 	"errors"
 	"fmt"
 
+	// Import all Kubernetes client auth plugins (e.g. Azure, GCP, OIDC, etc.)
+	// to ensure that exec-entrypoint and run can make use of them.
+	_ "k8s.io/client-go/plugin/pkg/client/auth"
+
 	"github.com/iter8-tools/etc3/api/v2alpha2"
 	tasks "github.com/iter8-tools/handler/tasks"
 	"github.com/sirupsen/logrus"
