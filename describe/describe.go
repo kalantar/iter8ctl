@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kalantar/etc3/api/v2alpha2"
-	"github.com/kalantar/handler/tasks"
+	"github.com/iter8-tools/etc3/api/v2alpha2"
+	"github.com/iter8-tools/handler/tasks"
 	expr "github.com/kalantar/iter8ctl/experiment"
 	"github.com/olekukonko/tablewriter"
 )

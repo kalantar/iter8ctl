@@ -3,7 +3,7 @@ package experiment
 import (
 	"testing"
 
-	"github.com/kalantar/handler/tasks"
+	"github.com/iter8-tools/handler/tasks"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"k8s.io/client-go/rest"

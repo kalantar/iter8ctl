@@ -492,8 +492,6 @@ github.com/iter8-tools/etc3 v0.1.28 h1:DHNJz2YA2yUlFqq9PJ7Vs1Vkn39H7RH4HfAxNqnx4
 github.com/iter8-tools/etc3 v0.1.28/go.mod h1:2a/957kXNub2R1aXsrHOtxWorARmSg1rGQ4oeqZkER4=
 github.com/iter8-tools/handler v0.1.20 h1:8vqs9pEZy1qz74s3oMqErdu0THiss8c8gkX+n5Heoyo=
 github.com/iter8-tools/handler v0.1.20/go.mod h1:HinS5dgVkJn4o70vn5v9WyBx7FeH3+3CPNvRO1nHED8=
-github.com/iter8-tools/iter8ctl v0.1.6 h1:s+IRG8w+lkJlJQH8EZGRtJ993Nhj44MBTgEbQ2ygnKY=
-github.com/iter8-tools/iter8ctl v0.1.6/go.mod h1:YWuMVFcg8Hmkqd0/U4fceS6htHnp+jmUUY3BsXnskN8=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmespath/go-jmespath v0.3.0/go.mod h1:9QtRXoHjLGCJ5IBSaohpXITPlowMeeYCZ7fLUTSywik=
