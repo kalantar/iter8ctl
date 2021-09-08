@@ -1,6 +1,6 @@
-module github.com/iter8-tools/iter8ctl
+module github.com/kalantar/iter8ctl
 
-go 1.15
+go 1.16
 
 require (
 	github.com/ghodss/yaml v1.0.0
