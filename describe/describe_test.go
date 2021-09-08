@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/iter8-tools/iter8ctl/utils"
+	"github.com/kalantar/iter8ctl/utils"
 	"github.com/stretchr/testify/assert"
 )
 

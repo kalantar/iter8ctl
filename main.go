@@ -16,7 +16,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/iter8-tools/iter8ctl/cmd"
+import "github.com/kalantar/iter8ctl/cmd"
 
 func main() {
 	cmd.Execute()

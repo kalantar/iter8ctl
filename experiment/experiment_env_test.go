@@ -3,8 +3,8 @@ package experiment
 import (
 	"context"
 
-	"github.com/iter8-tools/etc3/api/v2alpha2"
-	"github.com/iter8-tools/handler/tasks"
+	"github.com/kalantar/etc3/api/v2alpha2"
+	"github.com/kalantar/handler/tasks"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

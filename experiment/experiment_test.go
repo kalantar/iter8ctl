@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/ghodss/yaml"
-	"github.com/iter8-tools/etc3/api/v2alpha2"
-	"github.com/iter8-tools/handler/tasks"
-	"github.com/iter8-tools/iter8ctl/utils"
+	"github.com/kalantar/etc3/api/v2alpha2"
+	"github.com/kalantar/handler/tasks"
+	"github.com/kalantar/iter8ctl/utils"
 	"github.com/stretchr/testify/assert"
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/resource"

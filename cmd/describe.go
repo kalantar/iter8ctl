@@ -3,8 +3,8 @@ package cmd
 import (
 	"errors"
 
-	"github.com/iter8-tools/iter8ctl/describe"
-	expr "github.com/iter8-tools/iter8ctl/experiment"
+	"github.com/kalantar/iter8ctl/describe"
+	expr "github.com/kalantar/iter8ctl/experiment"
 	"github.com/spf13/cobra"
 )
 

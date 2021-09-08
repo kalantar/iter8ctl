@@ -10,8 +10,8 @@ import (
 	// to ensure that exec-entrypoint and run can make use of them.
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 
-	"github.com/iter8-tools/etc3/api/v2alpha2"
-	tasks "github.com/iter8-tools/handler/tasks"
+	"github.com/kalantar/etc3/api/v2alpha2"
+	tasks "github.com/kalantar/handler/tasks"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/inf.v0"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

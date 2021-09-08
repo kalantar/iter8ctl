@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	expr "github.com/iter8-tools/iter8ctl/experiment"
+	expr "github.com/kalantar/iter8ctl/experiment"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
